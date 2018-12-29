@@ -1,0 +1,17 @@
+[
+		{"name":"TCS T Nagar","address":{"area":"T Nagar","phone":"9877653428"},"pincode":"600017","coordinates":{"Latitude":"13.141327895459881","Longitude":"80.24783530800937"}},
+		{"name":"TCS DLF IT PARK","address":{"area":"Mount Poonamallee","phone":"9788324743"},"pincode":"600089","coordinates":{"Latitude":"13.9978763","Longitude":"80.5698964"}},
+		{"name":"TCS Anna Salai","address":{"area":"Anna Salai","phone":"8637846723"},"pincode":"600002","coordinates":{"Latitude":"13.9238748","Longitude":"80.79837958"}},
+		{"name":"TCS Buharia Tower","address":{"area":"Buharia Tower","phone":"9874673485"},"pincode":"600006","coordinates":{"Latitude":"12.0989379","Longitude":"80.978263"}},
+		{"name":"TCS Sholinganullur","address":{"area":"Sholinganallur","phone":"9843776876"},"pincode":"600119","coordinates":{"Latitude":"12.998928","Longitude":"82.90328779"}},
+		{"name":"TCS Karapakkam","address":{"area":"Karapakkam","phone":"9934878934"},"pincode":"600096","coordinates":{"Latitude":"13.9675222","Longitude":"81.325765"}},
+		{"name":"TCS Velachery","address":{"area":"Velachery","phone":"909748758"},"pincode":"600042","coordinates":{"Latitude":"12.983687","Longitude":"82.9382986"}},
+		{"name":"TCS Taramani","address":{"area":"Taramani","phone":"9473979353"},"pincode":"600113","coordinates":{"Latitude":"12.9327846","Longitude":"83.893748"}},
+		{"name":"TCS Lloyds Road","address":{"area":"Lloyds Road","phone":"9983477634"},"pincode":"600086","coordinates":{"Latitude":"12.654674","Longitude":"83.97486"}},
+		{"name":"TCS Cathedral Road","address":{"area":"Cathedral Road","phone":"9383724876"},"pincode":"600086","coordinates":{"Latitude":"13.089836","Longitude":"82.728675"}},
+		{"name":"TCS T Nagar","address":{"area":"Habibullah road,T Nagar","phone":"9983747347"},"pincode":"600017","coordinates":{"Latitude":"13.783783","Longitude":"81.379778"}},
+		{"name":"TCS Anna Nagar","address":{"area":"Anna Nagar","phone":"9983478687"},"pincode":"600040","coordinates":{"Latitude":"14.988984","Longitude":"82.74987"}},
+		{"name":"TCS Ambattur","address":{"area":"Ambattur","phone":"9989874864"},"pincode":"600058","coordinates":{"Latitude":"13.083097","Longitude":"81.97844"}},
+		{"name":"TCS Thoraipakkam","address":{"area":"Thoraipakkam","phone":"9839676543"},"pincode":"600096","coordinates":{"Latitude":"13.04834","Longitude":"82.98379"}},
+		{"name":"TCS Siruseri","address":{"area":"Siruseri","phone":"9834546543"},"pincode":"603103","coordinates":{"Latitude":"14.989847","Longitude":"82.9389837"}}
+]
